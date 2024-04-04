@@ -6,7 +6,7 @@ import {decodeToken} from 'react-jwt';
 import Profil from "../components/Profil";
 import Users from "../components/Users";
 
-const socket = io.connect("http://10.68.243.180:4001");
+const socket = io.connect("http://localhost:4001");
 
 const Home = () => {
     const [channels, setChannels] = useState([]);
