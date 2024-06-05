@@ -4,7 +4,7 @@
 ##  Presentation
 DosdIRC is a discord-like chat app using MERN stack and socket.io.
 
-## Instalation
+## Installation
   1. Clone the repo:
      ```sh
      git clone
